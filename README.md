@@ -1,2 +1,2 @@
-# operating-systems-homeworks
-Koc University - COMP304 Operating Systems - Homework implementations
+# Operating Systems Homeworks
+This repository includes implementations for Koc University's COMP304 Operating Systems class homeworks.
